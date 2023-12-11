@@ -1,3 +1,5 @@
+11-December-2023-- Nikhil Jain --- This plugin is used to fix the permission issues which we are getting for Android 13 and above
+
 Android Permission Cordova Plugin
 ========
 
